@@ -2,7 +2,6 @@
 <h3 align="left">A passionate web developer .</h3>
 
 <br>
-<br>
 
 - 🔭 I’m currently working on **Web Development**
 
