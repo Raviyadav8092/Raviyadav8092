@@ -1,5 +1,7 @@
-<h1 align="left">Hi , I'm Ravi</h1>
-<h3 align="left">A passionate web developer .</h3>
+<h1 align="centre">Hi , I'm Ravi</h1>
+<h3 align="centre">A passionate web developer .</h3>
+
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1eyBZUWXO9kHBHH1Mecf4t&ust=1650994236457000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPDrz_ver_cCFQAAAAAdAAAAABAD">
 
 <br>
 
